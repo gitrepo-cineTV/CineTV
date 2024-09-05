@@ -9,7 +9,7 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 # 📎 Important links
 
 
-💪 &nbsp;facebook group:(https://www.facebook.com/groups/548039300909916/posts/554770153570164)
+💪 &nbsp;facebook group: [Facebook](https://www.facebook.com/groups/548039300909916/posts/554770153570164)
 
 🗣️ &nbsp;Discussion Forum: 
 
