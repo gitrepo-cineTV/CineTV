@@ -3,7 +3,7 @@
 
 ## Frequently Asked Questions
 
-We have curated frequently asked questions and common mistakes on Discourse, you can read them here: [FAQ and Common mistakes]()
+We have curated frequently asked questions and common mistakes on Discourse, you can read them here: [FAQ and Common mistakes](https://watching.nwsautodaily.com/zh/)
 
 
 # 📎 Important links
