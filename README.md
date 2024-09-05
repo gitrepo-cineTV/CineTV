@@ -13,7 +13,7 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 
 🗣️ &nbsp;Discussion Forum:[GitHub](https://www.facebook.com/groups/548039300909916/posts/554770153570164)
 
-🏆 &nbsp;Leaderboard: 
+🏆 &nbsp;Leaderboard: 📎  [strava.clubs](https://www.strava.com/clubs/1290772/posts/32045247)
 
 
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/hAuevqx9Tj)
