@@ -8,11 +8,9 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 
 # 📎 Important links
 
-💪 &nbsp;facebook group:📎🌐  [Facebook](https://www.facebook.com/groups/548039300909916/posts/554770153570164)
+🏆[![Group](https://img.shields.io/static/v1?label=Website&message=facebook/&color=blue)](https://www.facebook.com/groups/548039300909916/posts/554770153570164/)
 
-🗣️ &nbsp;Discussion Forum:[GitHub](https://www.facebook.com/groups/548039300909916/posts/554770153570164)
-
-🏆 &nbsp;Leaderboard: 📎🌐  [strava.clubs](https://www.strava.com/clubs/1290772/posts/32045247)
+🏆[![Group](https://img.shields.io/static/v1?label=Website&message=strava.clubs//&color=orange)](https://www.strava.com/clubs/1290772/posts/32045247/)
 
 🗣️ [![Website](https://img.shields.io/static/v1?label=Website&message=https://watching.nwsautodaily.com/en/&color=blue)](https://watching.nwsautodaily.com/en/)
 
