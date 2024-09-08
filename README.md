@@ -37,7 +37,6 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 🏆[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Gitlab.participate&color=pink)](https://gitlab.com/GITREPO-VERAhoRA/repelis-ver-romper-el-circulo-2024-la-pelicula-completa-espanol-latino-gratis)
 
 
-
 🧛[![Join the chat at https://app.gitter.im/#/room/#jenkins-ci:matrix.org](https://badges.gitter.im/badge.svg)](https://app.gitter.im/#/room/#jenkins-ci:matrix.org)
 
 
